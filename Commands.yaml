@@ -1,0 +1,35 @@
+Redis: Remote dict Server
+
+
+Dictionary :
+{
+  "name": "Mukesh"
+}
+
+Keywords :
+  Set
+  get
+  Del
+  exists
+  INCR
+  decr
+  TTL : Time to live / Expiration
+  hset
+  hget
+  hgetall
+  hdel
+  lpush
+  rpop
+  Sadd
+  smembers
+  srem
+
+Redis Architecture Concepts:
+  Cache Miss :
+  Cache Hit :
+  Cache Aside 
+
+Redis Data Structures:
+  Hash 
+  List [1,2,3]
+  Set
